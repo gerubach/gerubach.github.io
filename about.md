@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I am Puppycat, PhD. I am a Python master.
+Hello I am Alex Shih. I am a Python master.
 
 ## More information
 
@@ -13,4 +13,4 @@ My favorite food is spinach. I like to SCREAM when I don't get my way but that's
 
 ### Contact me
 
-[puppycat@puppycat.org](mailto:puppycat@puppycat.org)
+[ashih91@gmail.com](mailto:ashih91@gmail.com)
